@@ -1,2 +1,2 @@
 # Password-Vault-with-ATtiny85
-This project showcases a unique implementation of a portable, secure password vault using the ATtiny85 microcontroller.
+This project showcases a unique implementation of a portable, secure password vault using the ATtiny85 microcontroller. The device stores encrypted passwords and retrieves them on demand via a USB interface, acting as a hardware-based password manager. With a focus on low-power consumption and compact design, it uses AES encryption for password storage, a capacitive touch button for authentication, and an optional OLED display for user interaction. This project highlights skills in microcontroller programming, cryptographic algorithms, and secure hardware development.
